@@ -1,0 +1,34 @@
+{
+  "name": "grunt-modules",
+  "description": "Utility to modularize grunt files",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ozanturgut/grunt-modules",
+  "author": {
+    "name": "Ozan Turgut",
+    "url": "http://oztu.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ozanturgut/grunt-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ozanturgut/grunt-modules/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache License 2.0",
+      "url": "https://github.com/ozanturgut/grunt-modules/blob/master/LICENSE-APACHE2"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
