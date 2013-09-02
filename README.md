@@ -1,8 +1,7 @@
 # Grunt Modules
 
-Grunt Modules allows you to split up your grunt file into modular pieces. It's very useful for managing large codebases.
-We use it to manage the build system for a 400+ file application at [Turn](http://www.turn.com/platform) and it 
-works like a charm.
+Grunt Modules allows you to split up your grunt file into modular pieces. It's useful for managing very large 
+codebases (if you have to have one).
 
 In Grunt you define pieces of your modules within each multitask. Grunt Modules inverts the configuration
 so that you can have your module define it's tasks instead, allowing you to put entire cross-sections of your
