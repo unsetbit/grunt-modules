@@ -1,5 +1,7 @@
 # Grunt Modules
 
+**This is no longer maintained. This was created at a time where we thought we needed a giant grunt file. It later turned out that we didn't. You too should make good effor to not need this, you'll be better off.**
+
 Grunt Modules allows you to split up your grunt file into modular pieces. It's useful for managing very large 
 codebases (if you have to have one).
 
